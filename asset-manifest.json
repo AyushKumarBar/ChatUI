@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ChatUI/static/css/main.745ff91a.css",
+    "main.js": "/ChatUI/static/js/main.cb6bb358.js",
+    "static/js/787.fab5000c.chunk.js": "/ChatUI/static/js/787.fab5000c.chunk.js",
+    "static/media/pexels-andrea-piacquadio-733872 (1).jpg": "/ChatUI/static/media/pexels-andrea-piacquadio-733872 (1).9a4afab11bab1603197e.jpg",
+    "index.html": "/ChatUI/index.html",
+    "main.745ff91a.css.map": "/ChatUI/static/css/main.745ff91a.css.map",
+    "main.cb6bb358.js.map": "/ChatUI/static/js/main.cb6bb358.js.map",
+    "787.fab5000c.chunk.js.map": "/ChatUI/static/js/787.fab5000c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.745ff91a.css",
+    "static/js/main.cb6bb358.js"
+  ]
+}
